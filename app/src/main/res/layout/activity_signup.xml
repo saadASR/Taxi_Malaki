@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="32dp"
+    android:gravity="center"
+    android:background="@drawable/background_gradient">
+
+
+    <!-- Logo -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:text="@string/signup_buttona"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:drawablePadding="8dp"
+        android:drawableTint="@color/white"
+        android:drawableLeft="@drawable/baseline_arrow_forward_24"
+        android:layout_marginBottom="20dp"/>
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/taxi_logo"
+        android:layout_marginBottom="32dp"
+        android:contentDescription="@string/logo_description" />
+
+    <!-- Username Field -->
+    <EditText
+        android:id="@+id/etUsername"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/username_hint"
+        android:padding="12dp"
+        android:layout_marginBottom="16dp"
+        android:background="@color/white"
+        android:drawableLeft="@drawable/ic_username"
+        android:drawablePadding="8dp"
+        android:textColor="#333"
+        android:textColorHint="#999"/>
+
+    <!-- Email Field -->
+    <EditText
+        android:id="@+id/etEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/email_hint"
+        android:padding="12dp"
+        android:layout_marginBottom="16dp"
+        android:background="@color/white"
+        android:drawableLeft="@drawable/ic_email"
+        android:drawablePadding="8dp"
+        android:textColor="#333"
+        android:textColorHint="#999"/>
+
+    <!-- Phone Field -->
+    <EditText
+        android:id="@+id/etPhone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/phone_hint"
+        android:padding="12dp"
+        android:layout_marginBottom="16dp"
+        android:background="@color/white"
+        android:drawableLeft="@drawable/ic_phone"
+        android:drawablePadding="8dp"
+        android:textColor="#333"
+        android:textColorHint="#999"/>
+
+    <!-- Password Field -->
+    <EditText
+        android:id="@+id/etPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/password_hint"
+        android:inputType="textPassword"
+        android:padding="12dp"
+        android:layout_marginBottom="16dp"
+        android:background="@color/white"
+        android:drawableLeft="@drawable/ic_lock"
+        android:drawablePadding="8dp"
+        android:textColor="#333"
+        android:textColorHint="#999"/>
+
+    <!-- Confirm Password Field -->
+    <EditText
+        android:id="@+id/etConfirmPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/confirm_password_hint"
+        android:inputType="textPassword"
+        android:padding="12dp"
+        android:layout_marginBottom="32dp"
+        android:background="@color/white"
+        android:drawableLeft="@drawable/ic_lock"
+        android:drawablePadding="8dp"
+        android:textColor="#333"
+        android:textColorHint="#999"/>
+
+    <!-- Sign Up Button -->
+    <Button
+        android:id="@+id/btnSignUp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/signup_buttona"
+        android:textStyle="bold"
+        android:backgroundTint="#A0D9F2"
+        android:textColor="#7E7E7E"
+        android:layout_gravity="center"/>
+    <Button
+        android:id="@+id/btnLogin1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/login_buttona"
+        android:textStyle="bold"
+        android:backgroundTint="#00A0D9F2"
+        android:textColor="#7E7E7E"
+        android:layout_gravity="center"/>
+</LinearLayout>

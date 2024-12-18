@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    android:background="@drawable/background_gradient">
+
+    <!-- Taxi Logo -->
+    <ImageView
+        android:id="@+id/taxiLogo"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/taxi1"
+        android:layout_marginBottom="24dp"
+        android:elevation="4dp" />
+
+    <!-- Welcome Text -->
+    <TextView
+        android:id="@+id/welcomeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Taxi Malaki"
+        android:textSize="26sp"
+        android:textColor="#333333"
+        android:textAlignment="center"
+        android:lineSpacingExtra="4dp"
+        android:fontFamily="sans-serif-medium"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Description Text -->
+    <TextView
+        android:id="@+id/descriptionText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your personal taxi distance and time tracker."
+        android:textSize="18sp"
+        android:textColor="#777777"
+        android:textAlignment="center"
+        android:layout_marginBottom="32dp"
+        android:fontFamily="sans-serif" />
+
+</LinearLayout>
