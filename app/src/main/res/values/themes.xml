@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyTaxiCounterD" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.MyTaxiCounterD" parent="Base.Theme.MyTaxiCounterD" />
+
+    <style name="CustomOutlinedButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/gold</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:textColor">@color/gold</item>
+    </style>
+
+    <style name="radius" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="cornerRadius">12dp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="radius0" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="cornerRadius">1dp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

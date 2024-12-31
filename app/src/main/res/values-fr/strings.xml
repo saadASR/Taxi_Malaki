@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Compteur Taxi</string>
+
+    <string name="profile">Profil</string>
+    <string name="scan">Scanner</string>
+    <string name="map">Carte</string>
+    <string name="historique">Historique</string>
+    <string name="distance">Distance</string>
+    <string name="temps">Temps</string>
+    <string name="tarif">Tarif</string>
+    <string name="start">Démarrer</string>
+    <string name="end">Terminer</string>
+    <string name="home">Accueil</string>
+    <string name="historique1">Historique</string>
+    <string name="scan1">Scanner</string>
+    <string name="profile2">Profil</string>
+    <string name="user_info_title">Informations de l\'utilisateur</string>
+    <string name="qr_code_description">Code QR</string>
+    <string name="user_info">Informations de l\'utilisateur</string>
+    <string name="distance_text">Distance : 0 km</string>
+    <string name="time_text">Temps : 0 min</string>
+    <string name="fare_text">Tarif : 0 DH</string>
+    <string name="start_ride_button">Démarrer la course</string>
+    <string name="end_ride_button">Terminer la course</string>
+    <string name="logo_description">Logo</string>
+    <string name="username_hint">Nom d\'utilisateur</string>
+    <string name="email_hint">E-mail</string>
+    <string name="phone_hint">Numéro de téléphone</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="confirm_password_hint">Confirmer le mot de passe</string>
+    <string name="signup_buttona">Créer un compte</string>
+    <string name="signup_button">Vous n\'avez pas de compte ? Inscrivez-vous</string>
+    <string name="LogoutButton">Se déconnecter</string>
+    <string name="login_button">Se connecter</string>
+    <string name="login_buttona">Vous avez déjà un compte ? Connectez-vous</string>
+    <string name="scan_instructions">Pointez la caméra sur le code-barres pour commencer le scan</string>
+    <string name="history">Historique</string>
+    <string name="distance_10_km">Distance : 10 km</string>
+    <string name="time_15_min">Temps : 15 min</string>
+    <string name="fare_50_dh">Tarif : 50 DH</string>
+    <string name="date_2024_12_18">Date : 2024-12-18</string>
+    <string name="time_02d_min_02d_sec">%02d min %02d sec</string>
+    <string name="distance_2f_km">%.2f km</string>
+    <string name="fare_2f_dh">%.2f DH</string>
+    <string name="ride_ended">Course terminée !</string>
+    <string name="ride_saved_successfully">Course enregistrée avec succès !</string>
+    <string name="failed_to_save_ride">Échec de l\'enregistrement de la course.</string>
+    <string name="distance_2f_km_time_02d_min_02d_sec_fare_2f_dh">Distance : %.2f km, Temps : %02d min %02d sec, Tarif : %.2f DH</string>
+    <string name="ride_summary">Résumé de la course</string>
+    <string name="notification_permission_granted">Permission de notification accordée !</string>
+    <string name="notification_permission_denied">Permission de notification refusée.</string>
+    <string name="ride_summary_channel">Canal Résumé de la course</string>
+    <string name="notifications_for_ride_summary">Notifications pour le résumé de la course</string>
+    <string name="ride_started">Course commencée</string>
+    <string name="name_email_phone">Nom : %1$s\nE-mail : %2$s\nTéléphone : %3$s</string>
+    <string name="not_provided">Non fourni</string>
+    <string name="unknown">Inconnu</string>
+    <string name="b_name_b_br"><![CDATA[<b>Nom :</b> %1$s<br>]]></string>
+    <string name="b_email_b_br"><![CDATA[<b>E-mail :</b> %1$s<br>]]></string>
+    <string name="b_phone_b"><![CDATA[<b>Téléphone :</b> %1$s]]></string>
+    <string name="terms_and_privacy_policy">Conditions et Politique de Confidentialité</string>
+    <string name="notifications">Notifications</string>
+    <string name="contact_us">Nous contacter</string>
+    <string name="log_out">Se déconnecter</string>
+    <string name="sign_in">Se connecter</string>
+    <string name="back">Retour</string>
+    <string name="email">E-mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="forget_password">Mot de passe oublié ?</string>
+    <string name="log_in">Connexion</string>
+    <string name="don_t_have_an_account">Vous n\'avez pas de compte ?</string>
+    <string name="sign_up">Créer un compte</string>
+    <string name="sign_up1">Inscription</string>
+    <string name="name1">Nom</string>
+    <string name="email1">E-mail</string>
+    <string name="phone">Téléphone</string>
+    <string name="password1">Mot de passe</string>
+    <string name="confirm_password">Confirmer le mot de passe</string>
+    <string name="create_an_account">Créer un compte</string>
+    <string name="already_have_an_account">Vous avez déjà un compte ?</string>
+    <string name="log_in11">Connexion</string>
+    <string-array name="language_options">
+        <item>Anglais</item>
+        <item>Arabe</item>
+        <item>Français</item>
+    </string-array>
+</resources>

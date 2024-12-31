@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">عداد التاكسي</string>
+
+    <string name="profile">الملف الشخصي</string>
+    <string name="scan">مسح</string>
+    <string name="map">الخريطة</string>
+    <string name="user_info_title">معلومات المستخدم</string>
+    <string name="qr_code_description">رمز الاستجابة السريعة</string>
+    <string name="user_info">معلومات المستخدم</string>
+    <string name="distance_text">المسافة: 0 كم</string>
+    <string name="time_text">الوقت: 0 دقيقة</string>
+    <string name="fare_text">الأجرة: 0 درهم</string>
+    <string name="start_ride_button">بدء الرحلة</string>
+    <string name="end_ride_button">إنهاء الرحلة</string>
+    <string name="logo_description">الشعار</string>
+    <string name="username_hint">اسم المستخدم</string>
+    <string name="email_hint">البريد الإلكتروني</string>
+    <string name="phone_hint">رقم الهاتف</string>
+    <string name="password_hint">كلمة المرور</string>
+    <string name="confirm_password_hint">تأكيد كلمة المرور</string>
+    <string name="signup_buttona">إنشاء حساب</string>
+    <string name="signup_button">ليس لديك حساب؟ سجل الآن</string>
+    <string name="LogoutButton">تسجيل الخروج</string>
+    <string name="login_button">تسجيل الدخول</string>
+    <string name="login_buttona">لديك حساب؟ قم بتسجيل الدخول</string>
+    <string name="scan_instructions">وجه الكاميرا إلى الباركود لبدء المسح</string>
+    <string name="history">السجل</string>
+    <string name="distance_10_km">المسافة: 10 كم</string>
+    <string name="time_15_min">الوقت: 15 دقيقة</string>
+    <string name="fare_50_dh">الأجرة: 50 درهم</string>
+    <string name="date_2024_12_18">التاريخ: 2024-12-18</string>
+    <string name="time_02d_min_02d_sec">%02d دقيقة %02d ثانية</string>
+    <string name="distance_2f_km">%.2f كم</string>
+    <string name="fare_2f_dh">%.2f درهم</string>
+    <string name="ride_ended">تم إنهاء الرحلة!</string>
+    <string name="ride_saved_successfully">تم حفظ الرحلة بنجاح!</string>
+    <string name="failed_to_save_ride">فشل في حفظ الرحلة.</string>
+    <string name="distance_2f_km_time_02d_min_02d_sec_fare_2f_dh">المسافة: %.2f كم، الوقت: %02d دقيقة %02d ثانية، الأجرة: %.2f درهم</string>
+    <string name="ride_summary">ملخص الرحلة</string>
+    <string name="notification_permission_granted">تم منح إذن الإشعارات!</string>
+    <string name="notification_permission_denied">تم رفض إذن الإشعارات.</string>
+    <string name="ride_summary_channel">قناة ملخص الرحلة</string>
+    <string name="notifications_for_ride_summary">إشعارات ملخص الرحلة</string>
+    <string name="ride_started">بدأت الرحلة</string>
+    <string name="name_email_phone">الاسم: %1$s\nالبريد الإلكتروني: %2$s\nالهاتف: %3$s</string>
+    <string name="not_provided">غير متوفر</string>
+    <string name="unknown">غير معروف</string>
+    <string name="b_name_b_br"><![CDATA[<b>الاسم:</b> %1$s<br>]]></string>
+    <string name="b_email_b_br"><![CDATA[<b>البريد الإلكتروني:</b> %1$s<br>]]></string>
+    <string name="b_phone_b"><![CDATA[<b>الهاتف:</b> %1$s]]></string>
+    <string name="terms_and_privacy_policy">الشروط وسياسة الخصوصية</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="log_out">تسجيل الخروج</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="back">العودة</string>
+    <string name="historique">السجل</string>
+    <string name="distance">المسافة</string>
+    <string name="temps">الوقت</string>
+    <string name="tarif">الأجرة</string>
+    <string name="start">ابدأ</string>
+    <string name="end">إنهاء</string>
+    <string name="home">الرئيسية</string>
+    <string name="historique1">السجل</string>
+    <string name="scan1">مسح</string>
+    <string name="profile2">الملف الشخصي</string>
+
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="forget_password">نسيت كلمة المرور؟</string>
+    <string name="log_in">تسجيل الدخول</string>
+    <string name="don_t_have_an_account">ليس لديك حساب؟</string>
+    <string name="sign_up">إنشاء حساب</string>
+    <string name="sign_up1">تسجيل حساب</string>
+    <string name="name1">الاسم</string>
+    <string name="email1">البريد الإلكتروني</string>
+    <string name="phone">الهاتف</string>
+    <string name="password1">كلمة المرور</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="create_an_account">إنشاء حساب</string>
+    <string name="already_have_an_account">لديك حساب؟</string>
+    <string name="log_in11">تسجيل الدخول</string>
+    <string-array name="language_options">
+        <item>الإنجليزية</item>
+        <item>العربية</item>
+        <item>الفرنسية</item>
+    </string-array>
+</resources>

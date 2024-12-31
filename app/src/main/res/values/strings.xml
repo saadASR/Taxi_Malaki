@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Taxi Counter</string>
+
+    <string name="profile">Profile</string>
+    <string name="scan">Scan</string>
+    <string name="map">Map</string>
+        <string name="user_info_title">User Information</string>
+        <string name="qr_code_description">QR Code</string>
+        <string name="user_info">User Information</string>
+    <string name="distance_text">Distance: 0 km</string>
+    <string name="time_text">Time: 0 min</string>
+    <string name="fare_text">Fare: 0 DH</string>
+    <string name="start_ride_button">Start Ride</string>
+    <string name="end_ride_button">End Ride</string>
+    <string name="logo_description">Logo</string>
+    <string name="username_hint">Username</string>
+    <string name="email_hint">Email</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="signup_buttona">Sign Up</string>
+    <string name="signup_button">Don\'t have an account? Sign Up</string>
+    <string name="LogoutButton">Logout</string>
+    <string name="login_button">Login</string>
+    <string name="login_buttona">Already have an account? Log in</string>
+    <string name="scan_instructions">Point the camera at the barcode to start scanning</string>
+    <string name="history">history</string>
+    <string name="distance_10_km">Distance: 10 km</string>
+    <string name="time_15_min">Time: 15 min</string>
+    <string name="fare_50_dh">Fare: 50 DH</string>
+    <string name="date_2024_12_18">Date: 2024-12-18</string>
+    <string name="time_02d_min_02d_sec">%02d min %02d sec</string>
+    <string name="distance_2f_km">%.2f km</string>
+    <string name="fare_2f_dh">%.2f DH</string>
+    <string name="ride_ended">Ride Ended!</string>
+    <string name="ride_saved_successfully">Ride saved successfully!</string>
+    <string name="failed_to_save_ride">Failed to save ride.</string>
+    <string name="distance_2f_km_time_02d_min_02d_sec_fare_2f_dh">Distance: %.2f km, Time: %02d min %02d sec, Fare: %.2f DH</string>
+    <string name="ride_summary">Ride Summary</string>
+    <string name="notification_permission_granted">Notification permission granted!</string>
+    <string name="notification_permission_denied">Notification permission denied.</string>
+    <string name="ride_summary_channel">Ride Summary Channel</string>
+    <string name="notifications_for_ride_summary">Notifications for ride summary</string>
+    <string name="ride_started">Ride Started</string>
+    <string name="name_email_phone">Name: %1$s\nEmail: %2$s\nPhone: %3$s</string>
+    <string name="not_provided">Not Provided</string>
+    <string name="unknown">Unknown</string>
+    <string name="b_name_b_br"><![CDATA[<b>Name:</b> %1$s<br>]]></string>
+    <string name="b_email_b_br"><![CDATA[<b>Email:</b> %1$s<br>]]></string>
+    <string name="b_phone_b"><![CDATA[<b>Phone:</b> %1$s]]></string>
+    <string name="terms_and_privacy_policy">Terms and Privacy Policy</string>
+    <string name="notifications">Notifications</string>
+    <string name="contact_us">Contact us</string>
+    <string name="log_out">Log out</string>
+    <string name="profile1">Profile</string>
+    <string name="historique">Historique</string>
+    <string name="distance">Distance</string>
+    <string name="temps">Time</string>
+    <string name="tarif">Fare</string>
+    <string name="start">Start</string>
+    <string name="end">End</string>
+    <string name="home">Home</string>
+    <string name="historique1">Historique</string>
+    <string name="scan1">Scan</string>
+    <string name="profile2">Profile</string>
+    <string name="sign_in">Sign in</string>
+    <string name="back">Back</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="log_in">Log in</string>
+    <string name="don_t_have_an_account">Don’t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up1">Sign up</string>
+    <string name="name1">Name</string>
+    <string name="email1">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password1">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="log_in11">Log in</string>
+    <string-array name="language_options">
+        <item>English</item>
+        <item>Arabic</item>
+        <item>French</item>
+    </string-array>
+
+
+</resources>
